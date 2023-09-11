@@ -57,6 +57,7 @@ Resources:
 - https://www.analyticsvidhya.com/blog/2023/03/ml-and-ai-in-game-development/
 - https://www.tap-nation.io/blog/the-rise-of-artificial-intelligence-in-mobile-games/
 - https://www.bluent.net/blog/role-of-data-analytics-in-gaming/
+- https://aicontentfy.com/en/blog/chatgpt-and-gaming-industry-transforming-interaction
 
 
 Please check:
