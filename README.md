@@ -58,6 +58,8 @@ Resources:
 - https://www.tap-nation.io/blog/the-rise-of-artificial-intelligence-in-mobile-games/
 - https://www.bluent.net/blog/role-of-data-analytics-in-gaming/
 - https://aicontentfy.com/en/blog/chatgpt-and-gaming-industry-transforming-interaction
+- https://fchiaramonte.com/nba-artificial-intelligence/
+  
 
 
 Please check:
