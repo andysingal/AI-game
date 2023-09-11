@@ -1,5 +1,7 @@
 # AI-game
 
+![11](https://github.com/andysingal/AI-game/blob/main/images/Screenshot%202023-09-11%20at%206.37.44%20PM.png)
+
 Current uses of AI in gaming
 
 The incorporation of AI into the industry has brought about significant advancements, transforming the way we, as players, connect, experience, and interact with virtual worlds. Whilst there are numerous examples of AI being used in this space, it is prudent to separate the implementation of AI into two distinct categories: the player experience and the development process.
