@@ -63,4 +63,27 @@ public class Mover : MonoBehaviour
 ```
 - Time.deltaTime(**Unity can tell us how long each frame took to execute**): https://docs.unity3d.com/ScriptReference/Time-deltaTime.html
 ```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class Mover : MonoBehaviour
+{
+    [SerializeField] float movespeed = 10f;
+    // Start is called before the first frame update
+    void Start()
+    {
+    //    transform.Translate(1,0,0);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        float xValue = Input.GetAxis("Horizontal") * Time.deltaTime * movespeed;
+        float zValue = Input.GetAxis("Vertical") * Time.deltaTime * movespeed;
+
+        transform.Translate(xValue,0,zValue);
+    }
+}
+
+```
