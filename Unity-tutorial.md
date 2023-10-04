@@ -99,4 +99,7 @@ Follow- select object
 - Add Cinemachine Brain component to camera
 - Rename Virtual Camera
 - POint the Virtual Camera to follow the player
-- Tune distance 
+- Tune distance
+
+Body Collision: https://docs.unity3d.com/Manual/CollidersOverview.html
+
