@@ -88,3 +88,4 @@ public class Mover : MonoBehaviour
 
 ```
 Cinemachine - https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html 
+- Window--> Package-Cinemachine
