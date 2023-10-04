@@ -91,3 +91,5 @@ Cinemachine - https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual
 - Window--> Package-Cinemachine
 - Cinemachine-CinemachineBrain as component
 - Game Object -- Cinemachine - Virtual Camera
+
+Body--> Framing Transposer to follow the object 
