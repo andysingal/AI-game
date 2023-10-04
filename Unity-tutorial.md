@@ -94,3 +94,9 @@ Cinemachine - https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual
 
 Body--> Framing Transposer to follow the object 
 Follow- select object
+
+- Install Cinemachine from Package Manager
+- Add Cinemachine Brain component to camera
+- Rename Virtual Camera
+- POint the Virtual Camera to follow the player
+- Tune distance 
