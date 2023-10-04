@@ -93,3 +93,4 @@ Cinemachine - https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual
 - Game Object -- Cinemachine - Virtual Camera
 
 Body--> Framing Transposer to follow the object 
+Follow- select object
