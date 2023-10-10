@@ -105,4 +105,5 @@ Body Collision: https://docs.unity3d.com/Manual/CollidersOverview.html
 - Add a Box Collider and Rigid Body (Use Gravity so that it does not go up)
 - -Add Constraints (Freeze Position Y).. (Freeze Rotation X Y Z)
 
-
+Introduction to Methods:- 
+- Clean 
