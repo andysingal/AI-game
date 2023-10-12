@@ -10,16 +10,19 @@ If you use “Cursor to selected” while in object mode, then the 3D cursor wil
 
 - press G to move along x-axis
 - press y to move along y-axis
--  press R for rotatioon 
+-  press R for rotation
+-  move light:
+  1. Select the light in the viewport by left clicking on it - it should be highlighted in yellow.
+  2. press g, then move your mouse to move the object. If you want to move it along a specific axis, you can press g, and then press, for example, x, to move it along the x axis.
 
 
 ViewPort and Rendering
 - Using Viewport shading for Wireframe
 Shadown Workspace:
 - Camera and you get Rander properties
--  Render Engine - Render properties 
+-  Render Engine - Render properties -- Eevee/Cycles
 
-
+Togle to camera view -- > press N -- Lock--Camera to View
 
 
 
