@@ -1,4 +1,5 @@
 - edit > preferences > emulated numpad: The Numpad keys are used quite often in Blender and are not assigned to the same action as the regular number keys. If you have a keyboard without a Numpad (e.g. on a laptop), you can tell Blender to treat the standard number keys as Numpad keys by checking Emulate Numpad
+- press 1 for front view and 7 for top view 
 - Add> Mesh>Cube 
 
 Adding Objects: 
@@ -6,6 +7,9 @@ Cursor to Selected: SHIFT+S
 
 If you use “Cursor to selected” while in object mode, then the 3D cursor will move to the selected objects origin point. You can also use Cursor to selected in other modes such as edit mode
 
+- press G to move along x-axis
+- press y to move along y-axis
+-  press R for rotatioon 
 
 
 
