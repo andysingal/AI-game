@@ -4,6 +4,7 @@
 
 Adding Objects: 
 Cursor to Selected: SHIFT+S
+-N for short cuts
 
 If you use “Cursor to selected” while in object mode, then the 3D cursor will move to the selected objects origin point. You can also use Cursor to selected in other modes such as edit mode
 
