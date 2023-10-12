@@ -13,8 +13,11 @@ If you use “Cursor to selected” while in object mode, then the 3D cursor wil
 -  press R for rotatioon 
 
 
-
-
+ViewPort and Rendering
+- Using Viewport shading for Wireframe
+Shadown Workspace:
+- Camera and you get Rander properties
+-  Render Engine - Render properties 
 
 
 
