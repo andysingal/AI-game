@@ -21,6 +21,8 @@ ViewPort and Rendering
 Shadown Workspace:
 - Camera and you get Rander properties
 -  Render Engine - Render properties -- Eevee/Cycles
+   - Move your camera to a position where you can see all your objects
+   - Move your light into a nice position
 
 Togle to camera view -- > press N -- Lock--Camera to View
 
