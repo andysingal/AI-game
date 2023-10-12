@@ -2,3 +2,24 @@
 - Add> Mesh>Cube 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+- https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
