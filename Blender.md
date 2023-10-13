@@ -49,6 +49,9 @@ Further Render Image:
 - To further improve reflection, object-> world
 
 <img width="1286" alt="Screenshot 2023-10-13 at 3 03 42 PM" src="https://github.com/andysingal/AI-game/assets/20493493/08b5e2b0-6b37-492d-bb22-5aca60e5d40f">
+For adding images instead of color, go to https://polyhaven.com/
+<img width="1047" alt="Screenshot 2023-10-13 at 3 36 31 PM" src="https://github.com/andysingal/AI-game/assets/20493493/00b11ec3-dca5-4e96-b9b2-7dc4d0dd9de1">
+
 
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
