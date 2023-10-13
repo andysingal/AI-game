@@ -46,7 +46,9 @@ Further Render Image:
 - Further we will be changing the Metallic, Roughness and Normal in the principled BSDF (metallic..1.0, no roughness)
 - Right click on the object and select shade smooth 
 - Further click on object data properties --> Normal-- Auto Smooth
+- To further improve reflection, object-> world
 
+<img width="1286" alt="Screenshot 2023-10-13 at 3 03 42 PM" src="https://github.com/andysingal/AI-game/assets/20493493/08b5e2b0-6b37-492d-bb22-5aca60e5d40f">
 
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
