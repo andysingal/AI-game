@@ -37,8 +37,15 @@ check [Ambient Occlusion](https://docs.blender.org/manual/en/latest/render/eevee
 
 or Check [Screen Space Reflections](https://docs.blender.org/manual/en/latest/render/eevee/render_settings/screen_space_reflections.html)
 
+Further Render Image:
 
+![Rendered Image](https://github.com/andysingal/AI-game/assets/20493493/663f0233-eaa6-4784-8b16-17bcccd5d50f)
 
+## Material Reflections
+
+- Further we will be changing the Metallic, Roughness and Normal in the principled BSDF (metallic..1.0, no roughness)
+- Right click on the object and select shade smooth 
+- Further click on object data properties --> Normal-- Auto Smooth
 
 
 References:
