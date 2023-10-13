@@ -54,7 +54,10 @@ For adding images instead of color, go to https://polyhaven.com/
 
 ## Lightning:
 - object data properties (in the shape of bulb) - change the color of the light , power-- 5000W, other options are sun, spot, area
-- change the 
+- Tricks Shift + D for getting another light (press yellow dot to move it around)
+
+<img width="784" alt="Screenshot 2023-10-13 at 5 27 40 PM" src="https://github.com/andysingal/AI-game/assets/20493493/56c92824-cb4b-4425-b89c-d8b318e25dd4">
+
 
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
