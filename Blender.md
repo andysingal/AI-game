@@ -2,7 +2,7 @@
 - press 1 for front view and 7 for top view 
 - Add> Mesh>Cube 
 
-Adding Objects: 
+## Adding Objects: 
 Cursor to Selected: SHIFT+S
 -N for short cuts
 
@@ -16,7 +16,7 @@ If you use “Cursor to selected” while in object mode, then the 3D cursor wil
   2. press g, then move your mouse to move the object. If you want to move it along a specific axis, you can press g, and then press, for example, x, to move it along the x axis.
 
 
-ViewPort and Rendering
+## ViewPort and Rendering
 - Using Viewport shading for Wireframe
 Shadown Workspace:
 - Camera and you get Rander properties
@@ -26,11 +26,16 @@ Shadown Workspace:
 
 Togle to camera view -- > press N -- Lock--Camera to View
 
+## Material Colors:
+- Select the objection, in the bottom window select New -> Base Color(Saturation) followed by Hue, Value for coloring the object
+- You can select other objects to keep the same color 
 
+<img width="1536" alt="Screenshot 2023-10-13 at 2 03 51 PM" src="https://github.com/andysingal/AI-game/assets/20493493/7e240d3c-2ad1-43ae-93ba-cf53aea62ecc">
+- Press N and below Render Engine:  
 
+check [Ambient Occlusion](https://docs.blender.org/manual/en/latest/render/eevee/render_settings/ambient_occlusion.html)
 
-
-
+or Check [Screen Space Reflections](https://docs.blender.org/manual/en/latest/render/eevee/render_settings/screen_space_reflections.html)
 
 
 
