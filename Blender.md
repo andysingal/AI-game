@@ -61,6 +61,7 @@ For adding images instead of color, go to https://polyhaven.com/
 ## Editing Objects
 - Shift +select + Press G to move the vertices of the object
 <img width="950" alt="Screenshot 2023-10-18 at 6 56 03 PM" src="https://github.com/andysingal/AI-game/assets/20493493/05ef51f7-5de3-4706-a4fc-6dd5d4c877e2">
+- Press the last one from above pic + press E to extrude
 
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
