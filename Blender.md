@@ -64,6 +64,7 @@ For adding images instead of color, go to https://polyhaven.com/
 - Press the last one from above pic + press E to extrude
 <img width="942" alt="Screenshot 2023-10-18 at 6 58 48 PM" src="https://github.com/andysingal/AI-game/assets/20493493/7beb6e6f-99fd-4961-89aa-5ec8485350b0">
 
+Use Ctrl + R
 <img width="1075" alt="Screenshot 2023-10-18 at 7 03 47 PM" src="https://github.com/andysingal/AI-game/assets/20493493/759d0139-2a30-4d55-a175-aa16b517f27e">
 
 
