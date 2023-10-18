@@ -64,13 +64,17 @@ For adding images instead of color, go to https://polyhaven.com/
 - Press the last one from above pic + press E to extrude
 <img width="942" alt="Screenshot 2023-10-18 at 6 58 48 PM" src="https://github.com/andysingal/AI-game/assets/20493493/7beb6e6f-99fd-4961-89aa-5ec8485350b0">
 
-Use Ctrl + R
+Tips: Use Ctrl + R
 
 <img width="567" alt="Screenshot 2023-10-18 at 7 35 17 PM" src="https://github.com/andysingal/AI-game/assets/20493493/86e444f0-a855-44b7-8a40-b8e7d03ea206">
 - <strong>To move the object 20 steps g + Y + 20 </strong>
 
-Move to a new collection by pressing M
+Tips: Move to a new collection by pressing M, Shift + A to add objects 
+- view - Frame selected
+- Insert face.. instead of E and S for resizing use Inset Faces
+- E for entruding , Size for Sizing and then press 0 for pointy top 
 
+<img width="137" alt="Screenshot 2023-10-18 at 10 59 12 PM" src="https://github.com/andysingal/AI-game/assets/20493493/dada5b15-8e38-4c64-8f7c-257bdf59d982">
 
 
 References:
