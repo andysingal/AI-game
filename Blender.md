@@ -77,6 +77,8 @@ Tips: Move to a new collection by pressing M, Shift + A to add objects
 <img width="137" alt="Screenshot 2023-10-18 at 10 59 12 PM" src="https://github.com/andysingal/AI-game/assets/20493493/dada5b15-8e38-4c64-8f7c-257bdf59d982">
 
 
+
+
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
 - https://www.creativebloq.com/3d-tips/blender-tutorials-1232739
