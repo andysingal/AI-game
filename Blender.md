@@ -82,6 +82,7 @@ Create plane and Ico sphere and then go to Sculpting -- check Sculpt Mode
 
 
 
+
 References:
 - https://www.artstation.com/blogs/jsabbott/88mv/how-to-get-started-3d-modeling-in-blender-part-1-quick-start-guide
 - https://www.creativebloq.com/3d-tips/blender-tutorials-1232739
