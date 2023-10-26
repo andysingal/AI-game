@@ -79,9 +79,12 @@ Tips: Move to a new collection by pressing M, Shift + A to add objects
 Make the Rocky Base:
 Create plane and Ico sphere and then go to Sculpting -- check Sculpt Mode 
 
-Click on Dyntopo and Ramesh 
+Click on Dyntopo and press ok
 
 <img width="364" alt="Screenshot 2023-10-25 at 7 24 20 PM" src="https://github.com/andysingal/AI-game/assets/20493493/d1736a58-8891-44d6-980f-7a95564027af">
+- change the relative detail /constant detail 
+
+Try the grab brush 
 
 
 
