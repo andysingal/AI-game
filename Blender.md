@@ -86,6 +86,12 @@ Click on Dyntopo and press ok
 
 Try the grab brush 
 
+### Decimate Modifier 
+1. goto Layout ---> Object Mode -->< Decimate Modifier -- Modify the Ratio 
+<img width="383" alt="Screenshot 2023-11-01 at 8 52 41 PM" src="https://github.com/andysingal/AI-game/assets/20493493/c3cc06e1-8a2f-4d3d-87fb-bfc8087c693c">
+
+Check the staistics:
+<img width="325" alt="Screenshot 2023-11-01 at 9 12 11 PM" src="https://github.com/andysingal/AI-game/assets/20493493/05c7be41-6bf8-4f11-b6a4-513020aaf93f">
 
 
 
