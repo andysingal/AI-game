@@ -59,6 +59,9 @@ Resources:
 - https://www.bluent.net/blog/role-of-data-analytics-in-gaming/
 - https://aicontentfy.com/en/blog/chatgpt-and-gaming-industry-transforming-interaction
 - https://fchiaramonte.com/nba-artificial-intelligence/
+
+Games:
+- https://github.com/a16z-infra/ai-town
   
 
 
