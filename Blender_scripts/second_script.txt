@@ -1,0 +1,67 @@
+import bpy
+
+# Clear existing objects
+bpy.ops.object.select_all(action='DESELECT')
+bpy.ops.object.select_by_type(type='MESH')
+bpy.ops.object.delete()
+
+# Create the platform
+platform_width = 6.0  # Width in meters
+platform_length = 80.0  # Length in meters
+platform_height = 2.0  # Height in meters
+gap = 1.0  # Gap between boxes in meters
+
+# Create a mesh object for the platform
+bpy.ops.mesh.primitive_cube_add(size=1)
+platform = bpy.context.object
+platform.scale = (platform_width, platform_length, platform_height)
+platform.location = (0.0, platform_length / 2, platform_height / 2.0)
+
+# Create a mesh object for the boxes
+bpy.ops.mesh.primitive_cube_add(size=1)
+box = bpy.context.object
+box.scale = (1.0, 1.0, 1.0)
+
+# Calculate the number of boxes needed
+num_boxes = int((platform_length - 2 * gap) / (1.0 + gap))
+
+# Loop to create and position the boxes on the left side of the platform
+for i in range(num_boxes):
+    # Duplicate the box
+    new_box = box.copy()
+    new_box.data = box.data.copy()
+    bpy.context.collection.objects.link(new_box)
+
+    # Position the box on the left side of the platform with a gap
+    y_offset = (i + 1) * (1.0 + gap)
+    new_box.location = (-platform_width / 2.0, y_offset, platform_height + 0.5)
+
+# Loop to create and position the boxes on the right side of the platform
+for i in range(num_boxes):
+    # Duplicate the box
+    new_box = box.copy()
+    new_box.data = box.data.copy()
+    bpy.context.collection.objects.link(new_box)
+
+    # Position the box on the right side of the platform with a gap
+    y_offset = (i + 1) * (1.0 + gap)
+    new_box.location = (platform_width / 2.0, y_offset, platform_height + 0.5)
+
+# Set the box name
+box.name = "Box"
+
+# Set the box material (optional)
+material = bpy.data.materials.new(name="BoxMaterial")
+box.data.materials.append(material)
+
+# Assign a color to the box material (optional)
+material.diffuse_color = (0.8, 0.2, 0.2)  # Red color
+
+# Select and focus on the platform
+bpy.ops.object.select_all(action='DESELECT')
+platform.select_set(True)
+bpy.context.view_layer.objects.active = platform
+bpy.ops.view3d.view_selected()
+
+# Optionally, save the scene as a .blend file
+# bpy.ops.wm.save_as_mainfile(filepath="path/to/save.blend")

@@ -1,0 +1,48 @@
+import bpy
+
+# Clear existing objects
+bpy.ops.object.select_all(action='DESELECT')
+bpy.ops.object.select_by_type(type='MESH')
+bpy.ops.object.delete()
+
+# Create the platform
+platform_width = 10.0  # Width in meters
+platform_length = 100.0  # Length in meters
+platform_height = 5.0  # Height in meters
+
+# Create a mesh object
+bpy.ops.mesh.primitive_cube_add(size=1)
+platform = bpy.context.object
+
+# Scale the platform
+platform.scale = (platform_width, platform_length, platform_height)
+
+# Set the origin to the bottom center of the platform
+bpy.ops.object.origin_set(type='ORIGIN_CENTER_OF_MASS', center='BOUNDS')
+
+# Move the platform to the desired location (optional)
+platform.location = (0.0, 0.0, platform_height / 2.0)
+
+# Set the platform name
+platform.name = "Platform"
+
+# Set the platform material (optional)
+material = bpy.data.materials.new(name="PlatformMaterial")
+platform.data.materials.append(material)
+
+# Assign a color to the platform material (optional)
+material.diffuse_color = (0.5, 0.5, 0.5)  # Gray color
+
+# Set the platform physics properties (optional)
+platform.rigid_body.type = 'PASSIVE'
+platform.rigid_body.friction = 0.5
+platform.rigid_body.restitution = 0.0
+
+# Select and focus on the platform
+bpy.ops.object.select_all(action='DESELECT')
+platform.select_set(True)
+bpy.context.view_layer.objects.active = platform
+bpy.ops.view3d.view_selected()
+
+# Optionally, save the scene as a .blend file
+# bpy.ops.wm.save_as_mainfile(filepath="path/to/save.blend")
